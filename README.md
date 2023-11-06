@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 This project focuses on customer churn analysis, aiming to understand and predict the major factors that lead to customer churn. Customer churn, also known as customer attrition, occurs when customers cease doing business with a company. Analyzing and mitigating customer churn is crucial for maintaining a healthy customer base and ensuring business growth.
 
-Project Overview
+## Project Overview
 The project includes the following key components:
 
 Exploratory Data Analysis (EDA): We performed an in-depth exploratory data analysis to gain insights into the dataset. This phase involved data cleaning, visualization, and statistical analysis to understand the distribution of variables and their relationships.
